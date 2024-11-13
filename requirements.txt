@@ -5,22 +5,15 @@ aiosignal==1.3.1
 alabaster==0.7.16
 ale-py==0.8.1
 altgraph==0.17.4
-anaconda-anon-usage @ file:///C:/b/abs_c3w_h1zzjg/croot/anaconda-anon-usage_1710965204622/work
-anaconda-client @ file:///C:/b/abs_34txutm0ue/croot/anaconda-client_1708640705294/work
-anaconda-cloud-auth @ file:///C:/b/abs_b02evi84gh/croot/anaconda-cloud-auth_1713991445770/work
-anaconda-navigator @ file:///C:/b/abs_a5gzce6vy0/croot/anaconda-navigator_1727709729163/work
-anaconda-project @ file:///C:/Windows/TEMP/abs_91fu4tfkih/croots/recipe/anaconda-project_1660339890874/work
-annotated-types @ file:///C:/b/abs_0dmaoyhhj3/croot/annotated-types_1709542968311/work
 anyio==4.6.2.post1
 apkutils2==1.0.0
 appdirs==1.4.4
-archspec @ file:///croot/archspec_1709217642129/work
 argh==0.31.3
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 arrow==1.3.0
 asn1crypto==1.5.1
-astroid==3.3.5
+astroid
 astropy==6.0.1
 astropy-iers-data==0.2024.11.11.0.32.38
 asttokens==2.4.1
@@ -30,15 +23,11 @@ async-timeout==4.0.3
 asyncssh==2.18.0
 atari-py==0.2.9
 atomicwrites==1.4.0
-attrs @ file:///C:/b/abs_24xj44kobp/croot/attrs_1729089434205/work
 autopep8==2.0.4
 babel==2.16.0
 backcall==0.2.0
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
 backports.shutil-get-terminal-size==1.0.0
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
-beautifulsoup4 @ file:///C:/b/abs_d5wytg_p0w/croot/beautifulsoup4-split_1718029833749/work
 binaryornot==0.4.4
 bitarray==3.0.0
 bkcharts==0.2
@@ -46,43 +35,25 @@ black==24.10.0
 blinker==1.9.0
 blosc2==2.5.1
 bokeh==3.4.3
-boltons @ file:///C:/b/abs_707eo7c09t/croot/boltons_1677628723117/work
 boto==2.49.0
 Bottleneck==1.4.2
-Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
 brotlipy==0.7.0
 cached-property==1.5.2
-cffi @ file:///C:/b/abs_90yq4lmu83/croot/cffi_1726856448345/work
-chardet @ file:///C:/ci/chardet_1607706937985/work
 cigam==0.0.3
 clyent==1.2.1
 comm==0.2.2
 concurrent_videocapture==0.0.2
-conda @ file:///C:/b/abs_85jnuwc__u/croot/conda_1729193917673/work
-conda-build @ file:///C:/b/abs_afd1hjce19/croot/conda-build_1726839930400/work
-conda-content-trust @ file:///C:/b/abs_bdfatn_wzf/croot/conda-content-trust_1714483201909/work
-conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1727775630457/work/src
-conda-pack @ file:///C:/b/abs_0cu91sbau5/croot/conda-pack_1710258097566/work
-conda-package-handling @ file:///C:/b/abs_831_pypuuz/croot/conda-package-handling_1718138287790/work
-conda-repo-cli @ file:///C:/b/abs_67rnnns_lt/croot/conda-repo-cli_1727366919559/work
-conda-token @ file:///croot/conda-token_1718995751285/work
-conda-verify==3.4.2
-conda_index @ file:///C:/b/abs_45v3w98im_/croot/conda-index_1719338245731/work
-conda_package_streaming @ file:///C:/b/abs_fe6zb0_j8_/croot/conda-package-streaming_1718136098642/work
 ConfigArgParse==1.5.2
 cookiecutter==2.6.0
-cryptography @ file:///C:/b/abs_35g500qir4/croot/cryptography_1724940575116/work
 cytoolz==1.0.0
 dask==2024.8.0
 dataclasses==0.6
 debugpy==1.8.8
 decorator==5.1.1
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 Deprecated==1.2.14
 deprecation==2.1.0
 diff-match-patch==20241021
 distributed==2024.8.0
-distro @ file:///C:/b/abs_71xr36ua5r/croot/distro_1714488282676/work
 docstring-to-markdown==0.15
 docutils==0.21.2
 dominate==2.9.1
@@ -92,17 +63,13 @@ et_xmlfile==2.0.0
 exceptiongroup==1.2.2
 executing==2.1.0
 fastcache==1.1.0
-fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
-filelock @ file:///C:/b/abs_f2gie28u58/croot/filelock_1700591233643/work
 flake8==7.1.1
 Flask==3.0.3
 Flask-Bootstrap==3.3.7.1
 Flask-SQLAlchemy==3.1.1
 Flask-WTF==1.2.2
 fqdn==1.5.1
-frozendict @ file:///C:/b/abs_2alamqss6p/croot/frozendict_1713194885124/work
 frozenlist==1.5.0
-future @ file:///C:/b/abs_bfx7g4al1k/croot/future_1730902814365/work
 gevent==24.11.1
 gitdb==4.0.11
 GitPython==3.1.43
@@ -112,7 +79,6 @@ google-cloud-bigquery==3.27.0
 google-cloud-core==2.4.1
 google-crc32c==1.6.0
 google-resumable-media==2.7.2
-gramaddict==2.10.6
 greenlet==3.1.1
 grpcio-status==1.48.2
 gym==0.26.2
@@ -129,7 +95,6 @@ inflection==0.5.1
 iniconfig==2.0.0
 intel-cmplr-lib-ur==2025.0.0
 intel-openmp==2025.0.0
-intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
 ipykernel==6.29.5
 ipython==8.18.1
 ipython-genutils==0.2.0
@@ -137,23 +102,17 @@ ipywidgets==8.1.5
 isoduration==20.11.0
 isort==5.13.2
 itsdangerous==2.2.0
-jaraco.classes @ file:///tmp/build/80754af9/jaraco.classes_1620983179379/work
 jdcal==1.4.1
 jedi==0.17.2
 jeepney==0.8.0
 jellyfish==1.1.0
-Jinja2 @ file:///C:/b/abs_ddyeze2h6_/croot/jinja2_1730903330414/work
 json5==0.9.28
-jsonpatch @ file:///C:/b/abs_4fdm88t7zi/croot/jsonpatch_1714483974578/work
 jsonpointer==2.1
-jsonschema @ file:///C:/b/abs_394_t6__xq/croot/jsonschema_1728486718320/work
-jsonschema-specifications @ file:///C:/b/abs_0brvm6vryw/croot/jsonschema-specifications_1699032417323/work
 jupyter==1.1.1
 jupyter-console==6.6.3
 jupyter-events==0.10.0
 jupyter-lsp==2.2.5
 jupyter_client==8.6.3
-jupyter_core @ file:///C:/b/abs_beftpbuevw/croot/jupyter_core_1718818307097/work
 jupyter_server==2.14.2
 jupyter_server_terminals==0.5.3
 jupyterlab==4.2.5
@@ -161,13 +120,10 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.13
 keras-rl2==1.0.5
-keyring @ file:///C:/b/abs_78uoj9sw00/croot/keyring_1709632550180/work
 langdetect==1.0.9
 lazy==1.6
 lazy-object-proxy==1.10.0
 lazy_loader==0.4
-libarchive-c @ file:///croot/python-libarchive-c_1726069797193/work
-libmambapy @ file:///C:/b/abs_aam1usey89/croot/mamba-split_1725563515831/work/libmambapy
 llvmlite==0.43.0
 locket==1.0.0
 logzero==1.7.0
@@ -175,14 +131,12 @@ markdown-it-py==3.0.0
 matplotlib-inline==0.1.7
 mccabe==0.7.0
 mdurl==0.1.2
-menuinst @ file:///C:/b/abs_76jwd47ck1/croot/menuinst_1723567618942/work
 mistune==3.0.2
 mkl==2025.0.0
 mkl-service==2.4.2
 mkl_fft==1.3.11
 mkl_random==1.2.8
 mock==5.1.0
-more-itertools @ file:///C:/b/abs_a2n4mhb8gn/croot/more-itertools_1727185463826/work
 mpmath==1.3.0
 msgpack==1.1.0
 msk==0.4.0
@@ -190,10 +144,8 @@ msm==0.9.0
 multidict==6.1.0
 multipledispatch==1.0.0
 mypy-extensions==1.0.0
-navigator-updater @ file:///C:/b/abs_22_3uaq2ey/croot/navigator-updater_1718030405023/work
 nbclient==0.10.0
 nbconvert==7.16.4
-nbformat @ file:///C:/b/abs_c2jkw46etm/croot/nbformat_1728050303821/work
 ndindex==1.9.2
 nest-asyncio==1.6.0
 networkx==3.2.1
@@ -216,15 +168,12 @@ partd==1.4.2
 path==17.0.0
 pathlib2==2.3.7.post1
 pathspec==0.12.1
-pathtools @ file:///Users/ktietz/demo/mc3/conda-bld/pathtools_1629713893697/work
 patsy==0.5.6
 pbr==6.1.0
 pefile==2023.2.7
 pep8==1.7.1
 pexpect==4.9.0
 pickleshare==0.7.5
-pkce @ file:///C:/b/abs_d0z4444tb0/croot/pkce_1690384879799/work
-pkginfo @ file:///C:/b/abs_bciypal17m/croot/pkginfo_1715696027839/work
 platformdirs==4.3.6
 pluggy==1.5.0
 ply==3.11
@@ -236,11 +185,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 py==1.11.0
 pycodestyle==2.12.1
-pycosat @ file:///C:/b/abs_5csdern___/croot/pycosat_1714513102923/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pycurl==7.45.3
-pydantic @ file:///C:/b/abs_b7acb4hnl_/croot/pydantic_1725040540545/work
-pydantic_core @ file:///C:/b/abs_3ax4s6v28p/croot/pydantic-core_1724790490828/work
 pydocstyle==6.3.0
 pyelftools==0.31
 pyerfa==2.0.1.5
@@ -251,20 +196,16 @@ pyglet==2.0.18
 Pygments==2.18.0
 pyinstaller==6.11.1
 pyinstaller-hooks-contrib==2024.10
-PyJWT @ file:///C:/b/abs_03dm8926m0/croot/pyjwt_1730786800571/work
-pylint==3.3.1
+pylint
 pylint-venv==3.0.4
 pyls-spyder==0.4.0
 PyNaCl==1.5.0
 pyodbc==5.2.0
 pyOpenSSL==24.2.1
 PyQt5==5.15.10
-PyQt5-sip @ file:///C:/b/abs_c0pi2mimq3/croot/pyqt-split_1698769125270/work/pyqt_sip
 PyQtWebEngine==5.15.6
 pyrsistent==0.20.0
-PySocks @ file:///C:/ci/pysocks_1605307512533/work
 pytest==8.3.3
-python-dotenv @ file:///C:/b/abs_edyrwjya7k/croot/python-dotenv_1669132572913/work
 python-json-logger==2.0.7
 python-jsonrpc-server==0.4.0
 python-language-server==0.36.2
@@ -274,7 +215,6 @@ python-lsp-server==1.12.0
 pytoolconfig==1.3.1
 pyuca==1.2
 PyWavelets==1.6.0
-pywin32-ctypes @ file:///C:/b/abs_2cfx5l4nvi/croot/pywin32-ctypes_1709340246092/work
 pywinpty==2.0.14
 pyxdg==0.28
 pyzmq==26.2.0
@@ -282,37 +222,26 @@ QDarkStyle==3.2.3
 qstylizer==0.2.3
 QtAwesome==1.3.1
 qtconsole==5.6.1
-QtPy @ file:///C:/b/abs_derqu__3p8/croot/qtpy_1700144907661/work
 readme_renderer==44.0
-referencing @ file:///C:/b/abs_09f4hj6adf/croot/referencing_1699012097448/work
-requests-toolbelt @ file:///C:/b/abs_2fsmts66wp/croot/requests-toolbelt_1690874051210/work
 retry==0.9.2
 rfc3339-validator==0.1.4
 rfc3986==2.0.0
 rfc3986-validator==0.1.1
 rich==13.9.4
 rope==1.13.0
-rpds-py @ file:///C:/b/abs_76j4g4la23/croot/rpds-py_1698947348047/work
 Rtree==1.3.0
-ruamel-yaml-conda @ file:///C:/b/abs_6ejaexx82s/croot/ruamel_yaml_1667489767827/work
-ruamel.yaml @ file:///C:/b/abs_0cunwx_ww6/croot/ruamel.yaml_1727980181547/work
-ruamel.yaml.clib @ file:///C:/b/abs_5fk8zi6n09/croot/ruamel.yaml.clib_1727769837359/work
 sacremoses==0.1.1
 safetensors==0.4.5
 scikit-image==0.24.0
 seaborn==0.13.2
 SecretStorage==3.3.3
-semver @ file:///C:/b/abs_4bkbn3v6jp/croot/semver_1709243682483/work
 Send2Trash==1.8.3
 simplegeneric==0.8.1
 singledispatch==4.1.0
-sip @ file:///C:/b/abs_edevan3fce/croot/sip_1698675983372/work
 smmap==5.0.1
 sniffio==1.3.1
 snowballstemmer==2.2.0
 sortedcollections==2.1.0
-sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
-soupsieve @ file:///C:/b/abs_bbsvy9t4pl/croot/soupsieve_1696347611357/work
 Sphinx==7.4.7
 sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-devhelp==2.0.0
@@ -342,19 +271,15 @@ three-merge==0.1.1
 tifffile==2024.8.30
 tinycss2==1.4.0
 tokenizers==0.20.3
-tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
 tomlkit==0.13.2
 toolz==1.0.0
 torch==2.5.1
 torchvision==0.20.1
-tornado @ file:///C:/b/abs_7bua0304mj/croot/tornado_1718740122405/work
-traitlets @ file:///C:/b/abs_bfsnoxl4pq/croot/traitlets_1718227069245/work
 transformers==4.46.2
 twine==5.1.1
 types-python-dateutil==2.9.0.20241003
 uiautomator==1.0.2
-uiautomator2==3.2.6
-ujson @ file:///C:/b/abs_c93a278xy4/croot/ujson_1717598062082/work
+uiautomator2>=2.16.7
 umf==0.9.0
 uri-template==1.3.0
 visitor==0.1.3
@@ -365,7 +290,6 @@ websocket-client==1.8.0
 whatthepatch==1.0.6
 whichcraft==0.6.1
 widgetsnbextension==4.0.13
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 WTForms==3.2.1
 wurlitzer==3.1.1
 xlrd==2.0.1
